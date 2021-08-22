@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1h+zLAN9cK+G34X7/7K+ucCXKmQr/sdWyP7WqLYerfDg3wfdjJ+xx3K5ZugTLheX67N3V/TT1yUhZwvXl0ZInQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\itzeur\\Desktop\\Practice\\.Net\\Calculator\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\itzeur\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\itzeur\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\itzeur\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\itzeur\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
